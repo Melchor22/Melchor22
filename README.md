@@ -88,7 +88,7 @@ Areas of interest include:
 ---
 
 
-<h2 align="left">🚀 Featured Projects</h2>
+🚀 Featured Projects
 
 <table>
   <tr>
@@ -96,46 +96,53 @@ Areas of interest include:
       <h3 align="center">FEI TACTICS API</h3>
       <p align="center">
         <a href="https://github.com/Melchor22/FeitacticsAPI">
-          <img src="https://img.shields.io/badge/Backend-REST%20API-3776AB?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend API"/>
+          <img src="https://img.shields.io/badge/Explore-Backend%20Repository-181717?style=for-the-badge&logo=github" alt="Explore backend repository" />
         </a>
-      </p>
-      <p>
-        API developed to manage data for FEI TACTICS.
-        This project represents the backend component of the application,
-        providing a dedicated layer for data management.
-      </p>
-      <p>
-        <strong>Focus:</strong> Backend development, API design, data management.
       </p>
       <p align="center">
-        <a href="https://github.com/Melchor22/FeitacticsAPI">
-          <strong>View Repository →</strong>
-        </a>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
       </p>
+      <p>
+        Backend API for FEI TACTICS, a tactical card game. The project includes REST endpoints and database access for managing game-related data.
+      </p>
+      <ul>
+        <li>Player and card data management.</li>
+        <li>Scenario and match-related endpoints.</li>
+        <li>MySQL database integration.</li>
+        <li>API documentation with Swagger.</li>
+      </ul>
+      <p><strong>Focus:</strong> Backend development, REST APIs, and database integration.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">MBAPPES FEI TACTICS</h3>
+      <h3 align="center">FEI TACTICS Android App</h3>
       <p align="center">
         <a href="https://github.com/JEnriqueF/MBAPPES_FEI_TACTICS">
-          <img src="https://img.shields.io/badge/Application-FEI%20TACTICS-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="FEI TACTICS application"/>
+          <img src="https://img.shields.io/badge/Explore-Android%20Repository-181717?style=for-the-badge&logo=github" alt="Explore Android repository" />
         </a>
-      </p>
-      <p>
-        Application project developed as part of FEI TACTICS.
-        Explore the source code to learn about its implementation
-        and how it relates to the API component.
-      </p>
-      <p>
-        <strong>Focus:</strong> Application development, software integration.
       </p>
       <p align="center">
-        <a href="https://github.com/JEnriqueF/MBAPPES_FEI_TACTICS">
-          <strong>View Repository →</strong>
-        </a>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" />
+        <img src="https://img.shields.io/badge/Retrofit-48B983?style=flat" alt="Retrofit" />
+        <img src="https://img.shields.io/badge/Gson-4285F4?style=flat" alt="Gson" />
       </p>
+      <p>
+        Native Android application for FEI TACTICS, providing a mobile interface for player interactions and tactical card gameplay.
+      </p>
+      <ul>
+        <li>Player registration and profile screens.</li>
+        <li>Card deck management.</li>
+        <li>Lobby, matchmaking, and game screens.</li>
+        <li>Communication with backend services using Retrofit and Gson.</li>
+      </ul>
+      <p><strong>Focus:</strong> Android development, API integration, and application logic.</p>
     </td>
   </tr>
 </table>
+
+FEI TACTICS is a collaborative project represented by separate backend and Android application repositories.
 
 ---
 
