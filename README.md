@@ -87,15 +87,55 @@ Areas of interest include:
 
 ---
 
-## 📂 Featured Projects
 
-Explore my repositories to discover my work in software development, API design, database systems, and optimization.
+<h2 align="left">🚀 Featured Projects</h2>
 
-<!-- Replace the entries below with actual public repository links and descriptions. -->
-
-- **Software Development:** Web applications, backend services, and API integrations.
-- **Research & Optimization:** Algorithms and experiments related to software requirements prioritization.
-- **Academic Projects:** Applications and systems developed throughout my Software Engineering degree.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">FEI TACTICS API</h3>
+      <p align="center">
+        <a href="https://github.com/Melchor22/FeitacticsAPI">
+          <img src="https://img.shields.io/badge/Backend-REST%20API-3776AB?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend API"/>
+        </a>
+      </p>
+      <p>
+        API developed to manage data for FEI TACTICS.
+        This project represents the backend component of the application,
+        providing a dedicated layer for data management.
+      </p>
+      <p>
+        <strong>Focus:</strong> Backend development, API design, data management.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Melchor22/FeitacticsAPI">
+          <strong>View Repository →</strong>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">MBAPPES FEI TACTICS</h3>
+      <p align="center">
+        <a href="https://github.com/JEnriqueF/MBAPPES_FEI_TACTICS">
+          <img src="https://img.shields.io/badge/Application-FEI%20TACTICS-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="FEI TACTICS application"/>
+        </a>
+      </p>
+      <p>
+        Application project developed as part of FEI TACTICS.
+        Explore the source code to learn about its implementation
+        and how it relates to the API component.
+      </p>
+      <p>
+        <strong>Focus:</strong> Application development, software integration.
+      </p>
+      <p align="center">
+        <a href="https://github.com/JEnriqueF/MBAPPES_FEI_TACTICS">
+          <strong>View Repository →</strong>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
