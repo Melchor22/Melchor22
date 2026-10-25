@@ -102,8 +102,8 @@ Explore my repositories to discover my work in software development, API design,
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=6" alt="Most used programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Melchor22&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melchor22&layout=compact&hide_border=true&langs_count=6" alt="Most used programming languages" />
 </p>
 
 ---
